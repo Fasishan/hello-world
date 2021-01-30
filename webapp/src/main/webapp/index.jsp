@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1> Hello Fasiuddin Welcome to Hyderabad !!   </h1>
 <h2> Deploying on a kubernetes using jenkins & ansible  </h2>
 <h1> Hello, Fasiuddin Welcome to Hyderabad !!   </h1>
